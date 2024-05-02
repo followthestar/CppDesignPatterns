@@ -1,0 +1,4 @@
+Person类为需要构建的核心类
+
+PersonBuilderBase、PersonBuilder、PersonAddressBuilder均为用户构造Person类各部分字段属性的构造器。
+其中PersonBuilder、PersonAddressBuilder继承自PersonBuilderBase。
