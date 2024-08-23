@@ -1,0 +1,3 @@
+D:/_CLion Projects/CppDesignPatterns/Part1_Creational/Singleton/cmake-build-debug/CMakeFiles/Singleton.dir
+D:/_CLion Projects/CppDesignPatterns/Part1_Creational/Singleton/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/_CLion Projects/CppDesignPatterns/Part1_Creational/Singleton/cmake-build-debug/CMakeFiles/rebuild_cache.dir
