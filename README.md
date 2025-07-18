@@ -1,2 +1,2 @@
 # CppDesignPatterns
-Record of the process of learning C++design patterns.
+Record the process of learning C++design patterns.
